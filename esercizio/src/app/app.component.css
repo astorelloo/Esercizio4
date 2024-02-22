@@ -90,3 +90,23 @@ body{
     background-color: rgb(51, 47, 47);
     text-transform: uppercase;
 }
+
+.card-body{
+    background-color: #EED5C2;
+    text-align: center;
+}
+
+.card-img{
+    margin: 10px;
+    width: 100%; /* Assicura che l'immagine sia responsiva e occupi la larghezza del contenitore */
+    border-radius: 0.25rem; /* Angoli arrotondati (Bootstrap solitamente usa 0.25rem per rounded) */
+    margin-left: auto;
+}
+
+.container{
+    align-items: center;
+    max-width: 1000px;
+}
+
+
+
