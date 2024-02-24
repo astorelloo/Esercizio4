@@ -98,11 +98,12 @@ body{
 .card-text{
     color: white;
     margin-left: 25px;
+    margin-right: 25px;
 }
 
 .card-title{
-    color: white;
-    
+    color: cyan;
+    font-size: 40px;
 }
 
 .card-img{
